@@ -11,7 +11,7 @@
     </items_info>
 	
     <item>
-        <title>ANIME</title>
+        <title>ANIME paul</title>
         <link>$doregex[resolver]</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
