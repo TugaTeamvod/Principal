@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	<!-- opicional -->
+	
     <channels_info> <!-- this is opitonal -->
       <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>News</genre>
@@ -11,7 +11,7 @@
       <date>04.01.2013</date>
       <credits>divingmule, Johnny Cache</credits>
     </channels_info>
-	<!-- opicional -->
+	
     
     <channel>
         <name>ANIMES</name>
