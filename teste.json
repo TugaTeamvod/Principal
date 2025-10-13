@@ -1,0 +1,99 @@
+{
+  "categorias": [
+    {
+      "nome": "Filmes de Ação",
+      "itens": [
+        {
+          "titulo": "John Wick",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+          "sinopse": "Após a morte de sua esposa, John Wick, um ex-assassino, busca vingança contra aqueles que destruíram sua vida."
+        },
+        {
+          "titulo": "Velozes e Furiosos",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/kl2TEKQfWZkG8pFmI20tynJHABh.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/sCjeHnC9C9286ZC3h1hU6bC5BhI.jpg",
+          "sinopse": "Dominic Toretto e sua equipe vivem corridas de rua e se envolvem em ações de alto risco."
+        }
+      ]
+    },
+    {
+      "nome": "Comédia",
+      "itens": [
+        {
+          "titulo": "Mr. Bean",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/tJzm5kX8H9kxJIgEUgqUanv6rKD.jpg",
+          "sinopse": "As aventuras cômicas e desastradas do atrapalhado Mr. Bean em situações do dia a dia."
+        }
+      ]
+    },
+    {
+      "nome": "Infantil",
+      "itens": [
+        {
+          "titulo": "Toy Story",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/2UqF5q0T3f30N0wqUe3XoD4tL3.jpg",
+          "sinopse": "A história dos brinquedos de Andy que ganham vida quando ele não está por perto."
+        }
+      ]
+    },
+    {
+      "nome": "Séries",
+      "itens": [
+        {
+          "titulo": "Breaking Bad S01E01",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/tJzm5kX8H9kxJIgEUgqUanv6rKD.jpg",
+          "sinopse": "Walter White, um professor de química, inicia uma carreira criminosa de produção de metanfetamina após ser diagnosticado com câncer."
+        }
+      ]
+    },
+    {
+      "nome": "Animação",
+      "itens": [
+        {
+          "titulo": "Dragon Ball",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/5bH7iZs5aRmh4rI2NS35a8U0W3x.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/6i8Er0I6HjO0ZMEkQvLPxgZoxZJ.jpg",
+          "sinopse": "Acompanhe as aventuras de Goku e seus amigos em busca das Esferas do Dragão e batalhas épicas."
+        }
+      ]
+    },
+    {
+      "nome": "Drama",
+      "itens": [
+        {
+          "titulo": "Titanic",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/kHXEpyfl6zqn8a6YuozZUujufXf.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/9xNOiv6DZZjH7ABoUUDP0ZynouU.jpg",
+          "sinopse": "A história de amor entre Jack e Rose a bordo do fatídico navio Titanic."
+        }
+      ]
+    },
+    {
+      "nome": "Documentários",
+      "itens": [
+        {
+          "titulo": "Big Buck Bunny",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "capa": "https://image.tmdb.org/t/p/w500/6B7wH3rZf9Jc0vJF9bBYbY0Gf2Y.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/bO2oQkQ4v8Pq9y0n0cKjQ0f8K2T.jpg",
+          "sinopse": "Um coelho gigante enfrenta três roedores mal-intencionados neste curta animada."
+        }
+      ]
+    },
+    {
+      "nome": "Favoritos",
+      "itens": []
+    }
+  ]
+}
