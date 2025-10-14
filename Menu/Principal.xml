@@ -18,7 +18,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Lançamentos</info>
-		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Filmes/refs/heads/main/Categorias/Lancamento.xml</externallink>
     </channel>
 	
 	<channel>
