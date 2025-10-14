@@ -29,4 +29,89 @@
 		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
     </channel>
 
+	<channel>
+        <name>Animação</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Aventura</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Comédia</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Drama</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Fantasia</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Ficção Cientifica</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Mistério</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Suspense</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Terror</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+
+	<channel>
+        <name>Marvel/DC</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/TugaTeamvod/Principal/refs/heads/main/Menu/teste.xml</externallink>
+    </channel>
+	
+
+
+
+	
+	
 </channels>	
